@@ -65,6 +65,34 @@ Es importante exponer que en la actualidad existen tres mujeres cuyos casos son 
 
 Lo cual cobra especial relevancia en caso de una mujer, ya que la violencia de genero se encuentra latente en las redes sociales, existiendo casos tristes y notorios, como el caso de la periodista Frida Guerrera, quien usa las redes sociales como una herramienta para difundir  su  trabajo  periodístico  sobre  feminicidios  en  México, pero ha sido acosada y hostigada con lenguaje violento y con fines de daño sexual. cite:mx17:_la_mexic
 
+****Datos relacionados con la Discriminación de Género en México.
+
+El binomio género-discriminación no es algo nuevo. Las mujeres han sido discriminadas en todos los tiempos y en todas las sociedades conocidas.
+
+En México hay 57.5 millones de mujeres, de un total de 112.3 millones de personas, revela el inegi. La brecha de equidad entre mujeres y hombres es muy amplia todavía, y la discriminación que padecen por ser mujeres ocasiona múltiples violaciones a sus derechos civiles, políticos, económicos, sociales y culturales.
+
+La situación que viven las niñas y mujeres en México requiere la necesidad de diseñar políticas públicas de corto, mediano y largo plazo, dirigidas a combatir las causas históricas y estructurales que limitan, segregan, discriminan, excluyen, el desarrollo de más de la mitad de la población, integrada por mujeres.
+
+Los índices de discriminación salarial por ocupación y sector de actividad muestran que las mujeres ganan un 30.5% menos que los varones en ocupaciones industriales, 16.7% menos como comerciantes y 15.3% menos como profesionales. Por sector de actividad el índice es de casi un 20% en el comercio, de 18.1% en la industria manufacturera, de poco más de 14% en la construcción y de más de 10.8% en los servicios sociales. [Datos Inegi-CONAPRED].
+
+Datos de la Encuesta Nacional sobre Discriminación en México (Enadis, 2010) indican que: Una cuarta parte de la población considera que en México no se respetan los derechos de las mujeres. Los datos evidencias que las mujeres tienen una visión más crítica que los hombres sobre el respeto de sus derechos. Casi 27% de las mujeres alguna vez ha sentido, totalmente o en parte, que sus derechos no han sido respetados por su condición de mujer. 
+
+La discriminación repercute en las niñas, adolescentes y mujeres tal que:
+
+1) Vulnera la dignidad y mina el autorrespeto: normaliza las distintas violencias. 
+2) Viola los derechos humanos y ciudadanos: diferencia e inferioriza a grupos y personas. 
+3) Mantiene la desigualdad económica: mal distribuye los escasos recursos y genera más brechas e inequidades. 
+4) Desconoce la dignidad y derechos de las personas: construye percepciones de desigualdad. 
+5) Impide ser una sociedad de derechos plena porque persisten sistemas y subsistemas discriminatorios. 
+6) Es un cáncer de la democracia porque no todas las personas acceden a sus derechos humanos en condiciones de igualdad.
+Es por ello que el gobierno de la republica a través del CONAPRED tiene el mandato de coordinar a la Administración Pública Federal en políticas de igualdad y no discriminación, bajo el entendido de que es responsabilidad de todas las instituciones emprender políticas públicas, programas para la combatir la discriminación. El Programa Nacional Por la Igualdad y No Discriminación (Pronaind) es el primer programa especial en materia de igualdad y no discriminación del gobierno mexicano. El Pronaind es el primer programa especial en materia de igualdad y lucha contra la discriminación que considera la metodología y recomendaciones de la Guía Práctica para Desarrollar Planes Nacionales de Acción contra la Discriminación Racial de la Oficina del Alto Comisionado para los Derechos Humanos de las Naciones Unidas. 
+
+Algunas de sus líneas de acción a favor de los derechos de la mujeres en el campo laboral son: 
+Establecer criterios normativos que incrementen la contratación y permanencia de mujeres en puestos directivos y de toma de decisión e impulsar la sensibilización y capacitación en materia de igualdad y no discriminación para personas en el servicio público. 
+
+Bajo estas premisas se conjuntaron los esfuerzos del Consejo Nacional para Prevenir la Discriminación (Conapred), el Instituto Nacional de las Mujeres (Inmujeres) y la Secretaría del Trabajo y Previsión Social (STPS), para la creación de la  Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación que surge como un mecanismo de adopción voluntaria para reconocer a los centros de trabajo que cuentan con prácticas en materia de igualdad laboral y no discriminación, para favorecer el desarrollo integral de las y los trabajadores de México.  Los principales ejes de esta norma son: incorporar la perspectiva de género y no discriminación en los procesos de reclutamiento, selección, movilidad y capacitación; garantizar la igualdad salarial; implementar acciones para prevenir y atender la violencia laboral; y realizar acciones de corresponsabilidad entre la vida laboral, familiar y personal de sus trabajadoras y trabajadores, con igualdad de trato y de oportunidades.
+Estas políticas y normatividades buscan lograr un México incluyente, comprendido como una sociedad de derechos, implica necesariamente mayor inclusión de las mujeres, para que puedan acceder a todos los derechos en igualdad de condiciones, garantizando con ello lo que está realmente en juego: la dignidad humana.
+
 ** Marco Legal
 #+LATEX: \lettrine[lines=1]{E}{n} 
 México existen diferentes tratados y leyes que buscan defender a la mujer de cualquier forma de discriminación de género. \\
@@ -110,8 +138,9 @@ Es también relevante en este caso, tomar en cuenta no sólo la discriminación 
 ... \\
 "/This work show data on difficulties of women working in technology sectors related to long hours. Findings also reflect influences of work-life balance of women with and without children and their cohorts. Women working in technology are highly focus on professional career, although senior women are more aware about work-life balance. These results suggest that organisation should adapt working conditions to diverse profiles of workforce in technology sector/." cite:Ramos:2018:WTW:3233824.3233867
 #+END_QUOTE
-
+*
 Si bien todos estos problemas son causados por diferentes razones, por lo que se tiene que tomar un enfoque multidimensional para solucionarlos, consideramos que uno de los principales problemas que enfrentan las TIC es la mentalidad de meritocracia, la cual exponemos con mayor detalle en el siguiente apartado, para entender cómo, aún en situaciones donde en apariencia no existe ningún tipo de discriminación, en realidad hay un gran problema oculto. 
+
 
 ** La Mentalidad de Meritocracia 
 #+LATEX: \lettrine[lines=1]{O}{tra} 
